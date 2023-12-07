@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![aDz_dev](./adz_dev.gif)
+
 <!--
 **adzmatheus/adzmatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
