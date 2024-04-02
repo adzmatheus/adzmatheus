@@ -1,8 +1,22 @@
-### Hi there 👋
+## Hi there 👋
 
 ![aDz_dev](./adz_dev.gif)
 
+
+
+## How to reach me 📫
+
+[![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:matheusvieira.p@hotmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/matheus-avp/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aDzMatheus)
+
 <!--
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
+
+<img src="https://github-readme-stats.vercel.app/api?username=adzmatheus&theme=github_dark">
+
+
 **adzmatheus/adzmatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
