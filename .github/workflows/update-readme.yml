@@ -1,15 +1,11 @@
 name: "Cronjob"
-
 on:
-  # run automatically everyday at 8 am
+  workflow_dispatch:
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '0 11 * * *'
   push:
     branches:
       - 'main'
-
-  # allows to manually run the job at any time
-  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -24,15 +20,14 @@ jobs:
         run: |
           export PATH=$PATH:$(go env GOPATH)/bin
           mkdir .tmp
-
-      - name: Collect weathers
+      - name: Collect market
         run: |
-          go install github.com/huantt/weather-forecast@latest
-          weather-forecast update-weather --days=3 --city=Macaé  --weather-api-key="${{ secrets.WEATHER_API_KEY }}" --template-file='templates/weathers.md.tpl' --out-file='.tmp/weathers.md.tpl'
+          go install github.com/adzmatheus/stonks-market@latest
+          stonks-market update-stonks --days=5 --ticker=^BVSP  --stonks-api-key="${{ secrets.BRAPI_API_KEY }}" --template-file='templates/stonks.md.tpl' --out-file='.tmp/stonks.md.tpl'
       - name: Merge templates
         run: |
           go install github.com/huantt/merge-templates@v1.0.0
-          merge-templates README.md 'templates/README.md.tpl' '.tmp/articles.md.tpl' '.tmp/weathers.md.tpl'
+          merge-templates README.md 'templates/README.md.tpl' '.tmp/stonks.md.tpl'
       - name: Commit
         run: |
           git config user.name github-actions
