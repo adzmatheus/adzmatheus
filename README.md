@@ -40,13 +40,13 @@ Brainstorm with me over tech, algorithms, products and a lot more
 
 -->
 
-
+<!--
 
 ## 📰 Since you've come this far, some updated information
 
 {{ template "stonks.md.tpl" }}
 
-<!--
+
 
 Bitcoin price
 
