@@ -22,7 +22,7 @@ jobs:
           mkdir .tmp
       - name: Collect market
         run: |
-          go install github.com/adzmatheus/stonks-market@latest
+          go install github.com/adzmatheus/stonks-market@v1.0.0
           stonks-market update-stonks --days=5 --ticker=^BVSP  --stonks-api-key="${{ secrets.BRAPI_API_KEY }}" --template-file='templates/stonks.md.tpl' --out-file='.tmp/stonks.md.tpl'
       - name: Merge templates
         run: |
