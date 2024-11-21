@@ -4,7 +4,7 @@
 
 {{- end }}
 
-<div align="right">
+<div align="left">
 
 *Updated at: {{formatTime .UpdatedAt}} - by **[adzmatheus/stonks-market](https://github.com/adzmatheus/stonks-market)***
 
