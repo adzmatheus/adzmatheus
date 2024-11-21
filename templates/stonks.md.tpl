@@ -1,4 +1,4 @@
-{{ with $todayStonks := index .Stonkses 0 }}
+{{ with $todayStonks := .Stonkses }}
 
 {{template "daily-table" $todayStonks}}
 
