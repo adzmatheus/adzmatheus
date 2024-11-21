@@ -1,6 +1,6 @@
 {{ with $todayStonks := index .Stonkses 0 }}
 
-{{template "daily-table" .Stonkses}}
+{{template "daily-table" $todayStonks}}
 
 {{- end }}
 
