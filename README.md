@@ -10,13 +10,7 @@ I'm Matheus,
 
 - Learning GO and some automation pipelines
 
-<!--
 
-- Currículo em inglês e português
-
-Mais algumas informações sobre mim
-
--->
 
 <a href="http://lattes.cnpq.br/0189197140924207"><img alt="Lattes" title="Lattes" src="https://img.shields.io/badge/-Lattes-2E5BAA?style=for-the-badge&logo=GitBook&logoColor=white"/></a>
 
@@ -29,35 +23,40 @@ Brainstorm with me over tech, algorithms, products and a lot more
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aDzMatheus)
 [![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/adzmatheus)
 
-<!--
 
-## 🔧 Some tools 
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
--->
-
-<!--
 
 ## 📰 Since you've come this far, some updated information
 
-{{ template "stonks.md.tpl" }}
 
 
 
-Bitcoin price
+<table>
+    <tr>
+        <th> Ticker </th>
+        <td> <div align="center"> ^BVSP" </div> </td>
+    </tr>
+    <tr>
+        <th> Stonks </th>
+        <td> <div align="center"> <img src="https://github.com/adzmatheus/stonks-market/blob/main/assets/expense.svg"/> </div> </td>
+    </tr>
+    <tr>
+        <th>Close yesterday </th>
+        <td width="200px"> BRL 128197.25 </td>
+    </tr>
+    <tr>
+        <th>Price today</th>
+        <td> BRL 126978.16 </td>
+    </tr>
+</table>
 
-Weather information
-
-Daily curiosity
 
 <div align="right">
 
-*Updated at: AAAA-MM-DD - by **[adzmatheus/news-generator](https://github.com/adzmatheus/news-generator)***
+*Updated at: 2024-11-21T14:36:51Z - by **[adzmatheus/stonks-market](https://github.com/adzmatheus/stonks-market)***
 
 </div>
 
--->
+
+
