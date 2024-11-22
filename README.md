@@ -47,14 +47,14 @@ Brainstorm with me over tech, algorithms, products and a lot more
     </tr>
     <tr>
         <th>Price today</th>
-        <td> BRL 126922.69 </td>
+        <td> BRL 126922.11 </td>
     </tr>
 </table>
 
 
 <div align="left">
 
-*Updated at: 2024-11-21T14:58:54Z - by **[adzmatheus/stonks-market](https://github.com/adzmatheus/stonks-market)***
+*Updated at: 2024-11-22T11:16:24Z - by **[adzmatheus/stonks-market](https://github.com/adzmatheus/stonks-market)***
 
 </div>
 
