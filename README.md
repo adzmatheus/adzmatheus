@@ -39,22 +39,22 @@ Brainstorm with me over tech, algorithms, products and a lot more
     </tr>
     <tr>
         <th> Stonks </th>
-        <td> <div align="center"> <img src="https://github.com/adzmatheus/stonks-market/blob/main/assets/income.svg"/> </div> </td>
+        <td> <div align="center"> <img src="https://github.com/adzmatheus/stonks-market/blob/main/assets/expense.svg"/> </div> </td>
     </tr>
     <tr>
         <th>Close yesterday </th>
-        <td width="200px"> BRL 126087.02 </td>
+        <td width="200px"> BRL 127857.58 </td>
     </tr>
     <tr>
         <th>Price today</th>
-        <td> BRL 127857.58 </td>
+        <td> BRL 125945.67 </td>
     </tr>
 </table>
 
 
 <div align="left">
 
-*Updated at: 2024-12-06T11:16:33Z - by **[adzmatheus/stonks-market](https://github.com/adzmatheus/stonks-market)***
+*Updated at: 2024-12-07T11:14:59Z - by **[adzmatheus/stonks-market](https://github.com/adzmatheus/stonks-market)***
 
 </div>
 
