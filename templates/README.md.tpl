@@ -8,7 +8,7 @@ I'm Matheus,
 
 - Bachelor in Computer Science, Postgraduate in Software Engeneering 
 
-- Learning GO and some automation pipelines
+- Learning Next and some automation pipelines
 
 <!--
 
