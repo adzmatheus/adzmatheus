@@ -8,7 +8,7 @@ I'm Matheus,
 
 - Bachelor in Computer Science, Postgraduate in Software Engeneering 
 
-- Learning GO and some automation pipelines
+- Learning Next and some automation pipelines
 
 
 
@@ -39,22 +39,22 @@ Brainstorm with me over tech, algorithms, products and a lot more
     </tr>
     <tr>
         <th> Stonks </th>
-        <td> <div align="center"> <img src="https://github.com/adzmatheus/stonks-market/blob/main/assets/income.svg"/> </div> </td>
+        <td> <div align="center"> <img src="https://github.com/adzmatheus/stonks-market/blob/main/assets/expense.svg"/> </div> </td>
     </tr>
     <tr>
         <th>Close yesterday </th>
-        <td width="200px"> BRL 119624.51 </td>
+        <td width="200px"> BRL 119780.56 </td>
     </tr>
     <tr>
         <th>Price today</th>
-        <td> BRL 119780.56 </td>
+        <td> BRL 118856.48 </td>
     </tr>
 </table>
 
 
 <div align="left">
 
-*Updated at: 2025-01-10T11:15:25Z - by **[adzmatheus/stonks-market](https://github.com/adzmatheus/stonks-market)***
+*Updated at: 2025-01-10T23:16:24Z - by **[adzmatheus/stonks-market](https://github.com/adzmatheus/stonks-market)***
 
 </div>
 
