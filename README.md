@@ -43,18 +43,18 @@ Brainstorm with me over tech, algorithms, products and a lot more
     </tr>
     <tr>
         <th>Close yesterday </th>
-        <td width="200px"> BRL 133989.73 </td>
+        <td width="200px"> BRL 133071.05 </td>
     </tr>
     <tr>
         <th>Price today</th>
-        <td> BRL 133071.05 </td>
+        <td> BRL 132437.39 </td>
     </tr>
 </table>
 
 
 <div align="left">
 
-*Updated at: 2025-08-01T11:19:45Z - by **[adzmatheus/stonks-market](https://github.com/adzmatheus/stonks-market)***
+*Updated at: 2025-08-02T11:18:47Z - by **[adzmatheus/stonks-market](https://github.com/adzmatheus/stonks-market)***
 
 </div>
 
